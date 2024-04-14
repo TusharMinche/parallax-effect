@@ -14,4 +14,4 @@ This project demonstrates the implementation of a parallax effect using HTML and
 To view this project locally, simply clone the repository:
 
 ```bash
-git clone https://github.com/TusharMinche/project-parallax-effect.git
+git clone https://github.com/TusharMinche/parallax-effect.git
