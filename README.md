@@ -1,6 +1,6 @@
 # parallax-effect
 
-![Project Parallax Effect Demo]([demo.gif](https://github.com/TusharMinche/parallax-effect/blob/main/images/ezgif-4-c1c733c381.gif))
+![Project Parallax Effect Demo](https://github.com/TusharMinche/parallax-effect/blob/main/images/ezgif-4-c1c733c381.gif)
 
 ## Description
 This project demonstrates the implementation of a parallax effect using HTML and CSS. The parallax effect creates an illusion of depth by moving background elements at different speeds as the user scrolls. It adds a visually appealing dynamic to web pages, enhancing user experience.
