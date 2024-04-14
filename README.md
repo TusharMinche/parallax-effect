@@ -13,7 +13,7 @@ This project demonstrates the implementation of a parallax effect using HTML and
 ## Demo
 Here's a GIF showcasing the parallax effect in action:
 
-![Project Parallax Effect Demo](https://github.com/TusharMinche/parallax-effect/blob/main/images/ezgif-4-c1c733c381.gif)
+![Project Parallax Effect Demo](https://tusharminche.github.io/parallax-effect/)
 
 ## Installation
 To view this project locally, simply clone the repository:
