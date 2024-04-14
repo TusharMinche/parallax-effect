@@ -10,11 +10,6 @@ This project demonstrates the implementation of a parallax effect using HTML and
 - Easily customizable elements
 - Responsive design for seamless viewing on different devices
 
-## Demo
-Here's a GIF showcasing the parallax effect in action:
-
-![Project Parallax Effect Demo](https://tusharminche.github.io/parallax-effect/)
-
 ## Installation
 To view this project locally, simply clone the repository:
 
